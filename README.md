@@ -16,6 +16,7 @@
   </div> 
 <br>  
 ![](https://komarev.com/ghpvc/?username=StopmotionSimonYT)
+
 <b>For so far the information. You want to hear a joke?</b>
 How many programmers does it take to change a light bulb? None, that’s a hardware problem.
 
