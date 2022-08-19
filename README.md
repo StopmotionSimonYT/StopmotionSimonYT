@@ -9,13 +9,11 @@
 
 <div align="center"> 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=StopmotionSimonYT&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
-</div>
-<div align="center"> 
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=StopmotionSimonYT&show_icons=true&hide_border=true&count_private=true&theme=github_dark&include_all_commits=true"/></a>
+    <img src="https://komarev.com/ghpvc/?username=StopmotionSimonYT"/></a>
   </div> 
 <br>  
-![](https://komarev.com/ghpvc/?username=StopmotionSimonYT)
 
 <b>For so far the information. You want to hear a joke?</b>
 How many programmers does it take to change a light bulb? None, that’s a hardware problem.
