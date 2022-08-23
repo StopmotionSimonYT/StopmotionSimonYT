@@ -4,9 +4,8 @@
   
 - 🌱 I’m currently learning Python    
 
-- ⚡ Fun fact: My first programming experience was making a webview Android app
-
-
+- ⚡ This is my first (and only) open source project:  [QuoteTab](https://github.com/StopmotionSimonYT/QuoteTab)
+ 
 <div align="center"> 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=StopmotionSimonYT&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
 </div>
