@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an automating system and helping with this open source project: [Reddit video maker bot](https://github.com/elebumm/RedditVideoMakerBot)
+- 🔭 I’m currently working on an automating system and contributing to this open source project: [Reddit video maker bot](https://github.com/elebumm/RedditVideoMakerBot)
   
 - 🌱 I’m currently learning Python    
 
