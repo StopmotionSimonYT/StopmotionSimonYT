@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning Python    
 
-- ⚡ This is my first (and only) open source project:  [QuoteTab](https://github.com/StopmotionSimonYT/QuoteTab)
+- ⚡ This is my first open source project:  [QuoteTab](https://github.com/OpenSourceSimon/QuoteTab). I also have an API for this project: [QuoteAPI](https://github.com/OpenSourceSimon/QuoteAPI)
  
 <div align="center"> 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=OpenSourceSimon&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak"></a>
