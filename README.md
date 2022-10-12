@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an automating system and contributing to this open source project: [Reddit video maker bot](https://github.com/elebumm/RedditVideoMakerBot)
-  
+
+- 📑 My new big project is [GoodMorninTech](https://github.com/GoodMorninTech/GoodMorningTech). I'm excited to see what this project becomes in the future and I'm happy to work with other people on this project.
+
 - 🌱 I’m currently learning Python    
 
 - ⚡ This is my first open source project:  [QuoteTab](https://github.com/OpenSourceSimon/QuoteTab)
